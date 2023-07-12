@@ -21,6 +21,15 @@ h1 {
     margin: 0;
     margin-bottom: 30px;
 }
+
+.banner span{
+    font-size: 20px;
+}
+
+
+
+
+
 h2 {
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
